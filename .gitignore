@@ -2,3 +2,4 @@ bfc
 a.out
 *.ll
 *.s
+*.o
