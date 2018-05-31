@@ -2,7 +2,7 @@
 
 This is a simple implementation of a [Bf](https://en.wikipedia.org/wiki/Brainfuck) to [LLVM](http://llvm.org/) IR compiler.  It has no practical purpose beyond providing a sample project for playing with LLVM.
 
-This compiler was built and tested with LLVM 4.0.1.
+This compiler was built and tested with LLVM versions 4.0.1 and 6.0.0.
 
 ## Building
 
